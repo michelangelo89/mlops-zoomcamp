@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/03-orchestration/homework_3/mlruns/0/612a68db14844b08a087d0df7cefb17c/artifacts
+end_time: 1748594824030
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 612a68db14844b08a087d0df7cefb17c
+run_name: blushing-worm-979
+run_uuid: 612a68db14844b08a087d0df7cefb17c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748594816804
+status: 3
+tags: []
+user_id: codespace
